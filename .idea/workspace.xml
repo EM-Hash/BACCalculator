@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc9a8463-0b92-4000-a8b2-e3b639a8ce94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bac-symptoms.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/code.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +35,11 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bitstudent\WebstormProjects\BACCalculator" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,12 +48,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636076539911</updated>
-      <workItem from="1636076541053" duration="215000" />
+      <workItem from="1636076541053" duration="1120000" />
     </task>
+    <task id="LOCAL-00001" summary="Added base templates">
+      <created>1636076783010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636076783010</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added base templates">
+      <created>1636076796516</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636076796516</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added base templates">
+      <created>1636076805242</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636076805242</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added base templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added base templates" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
