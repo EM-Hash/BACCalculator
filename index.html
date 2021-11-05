@@ -9,6 +9,31 @@
         p#BAC-result{
             visibility: hidden;
         }
+
+        div{
+            width: 1000px;
+            height: 319px;
+            position: relative;
+            background-image: url("bac-symptoms.png");
+        }
+
+        input[type=range]{
+            width: 800px;
+            position: absolute;
+            margin-top: 163px;
+            margin-left: 25px;
+        }
+
+        input[type=range]:disabled::-webkit-slider-runnable-track{
+            -webkit-appearance: none;
+            background-color: red;
+            border-radius: 15px;
+        }
+
+        input[type=range]::-webkit-slider-thumb{
+            -webkit-appearance: none;
+            background: darkblue;
+        }
     </style>
 </head>
 <body>
@@ -40,7 +65,11 @@
     <input type="submit" value="Calculate">
 </form>
 <p id="BAC-result">Your BAC is...</p>
-
+<div id="BAC-visual">
+<form>
+    <input type="range" min="0" max="0.5" step="0.1" value="0" disabled>
+</form>
+</div>
 <!-- jQuery first -->
 <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
         crossorigin="anonymous"></script>
